@@ -1,3 +1,4 @@
+import colorsys
 import pygame
 import pygame.gfxdraw
 import numpy as np
